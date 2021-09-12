@@ -1,0 +1,21 @@
+C:\Users\garet\Desktop\frumppys game\file logger\bin\Debug\file logger.exe.config
+C:\Users\garet\Desktop\frumppys game\file logger\bin\Debug\file logger.exe
+C:\Users\garet\Desktop\frumppys game\file logger\bin\Debug\file logger.pdb
+C:\Users\garet\Desktop\frumppys game\file logger\obj\Debug\file logger.csprojAssemblyReference.cache
+C:\Users\garet\Desktop\frumppys game\file logger\obj\Debug\file logger.csproj.CoreCompileInputs.cache
+C:\Users\garet\Desktop\frumppys game\file logger\obj\Debug\file logger.exe
+C:\Users\garet\Desktop\frumppys game\file logger\obj\Debug\file logger.pdb
+C:\Users\garet\Desktop\frumppys program\file logger\bin\Debug\file logger.exe.config
+C:\Users\garet\Desktop\frumppys program\file logger\bin\Debug\file logger.exe
+C:\Users\garet\Desktop\frumppys program\file logger\bin\Debug\file logger.pdb
+C:\Users\garet\Desktop\frumppys program\file logger\obj\Debug\file logger.csprojAssemblyReference.cache
+C:\Users\garet\Desktop\frumppys program\file logger\obj\Debug\file logger.csproj.CoreCompileInputs.cache
+C:\Users\garet\Desktop\frumppys program\file logger\obj\Debug\file logger.exe
+C:\Users\garet\Desktop\frumppys program\file logger\obj\Debug\file logger.pdb
+C:\Users\garet\Desktop\frumppys program\file logger\file logger\obj\Debug\file logger.csprojAssemblyReference.cache
+C:\Users\garet\Desktop\frumppys program\file logger\file logger\obj\Debug\file logger.csproj.CoreCompileInputs.cache
+C:\Users\garet\Desktop\frumppys program\file logger\file logger\obj\Debug\file logger.exe
+C:\Users\garet\Desktop\frumppys program\file logger\file logger\obj\Debug\file logger.pdb
+C:\Users\garet\Desktop\frumppys program\file logger\file logger\bin\Debug\file logger.exe.config
+C:\Users\garet\Desktop\frumppys program\file logger\file logger\bin\Debug\file logger.exe
+C:\Users\garet\Desktop\frumppys program\file logger\file logger\bin\Debug\file logger.pdb
